@@ -1,3 +1,4 @@
+export PATH="/home/isaiah/anaconda3/bin:$PATH"
 source activate tf
 
 # tensorboard
